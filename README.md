@@ -26,8 +26,8 @@ ast.result.summary.url| Checkmarx REST API endpoint, to fetch the scan details b
 slack.notification| Flag indicating whether to send Slack notification
 slack.url| Slack webhook endpoint where the AST Message Interceptor will post the scan summary
 
-## WebHook Web Service
-
-**Workflow**
+## Build
+Executable JAR is compiled using maven
+**Java 11 JRE**
 
 
